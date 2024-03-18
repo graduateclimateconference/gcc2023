@@ -18,18 +18,18 @@ navbar-links:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
   #Author's home: "https://deanattali.com"
-  About: "about"
-  Application: "application"
+  About: "about2023"
+  Application: "application2023"
   Logistics:
-    - Conference Logistics: "logistics"
-    - Schedule & Abstracts: "schedule"
-    - COVID-19 Protocols: "covid"
-  DEIJ: "DEIJ"
+    - Conference Logistics: "logistics2023"
+    - Schedule & Abstracts: "schedule2023"
+    - COVID-19 Protocols: "covid2023"
+  DEIJ: "DEIJ2023"
   More Info:
-    - Organizers: "organizers"
-    - Sponsors: "sponsors"
-    - Archive: "archive"
-    - FAQ: "faq"
+    - Organizers: "organizers2023"
+    - Sponsors: "sponsors2023"
+    - Archive: "archive2023"
+    - FAQ: "faq2023"
 
 # --- Logo --- #
 
