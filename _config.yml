@@ -24,7 +24,7 @@ navbar-links:
     - Conference Logistics: "logistics2023"
     - Schedule & Abstracts: "schedule2023"
     - COVID-19 Protocols: "covid2023"
-  DEIJ: "DEIJ2023"
+  # DEIJ: "DEIJ2023"
   More Info:
     - Organizers: "organizers2023"
     - Sponsors: "sponsors2023"
